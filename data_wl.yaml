@@ -1,0 +1,10 @@
+train: C:\Users\Bruno\Documents\Códigos\WildLife-YOLO\train\images\ # train images folder
+val: C:\Users\Bruno\Documents\Códigos\WildLife-YOLO\valid\images\ # val images folder
+test: C:\Users\Bruno\Documents\Códigos\WildLife-YOLO\test\images\ # test iamges folder
+
+# Classes
+names:
+  0: buffalo
+  1: elephant
+  2: rhino
+  3: zebra
